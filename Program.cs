@@ -9,6 +9,7 @@
             CI = 9;
                 CP = 7;
             N = CI + CP;
+            Console.WriteLine("HOLA");
         }
     }
 }
